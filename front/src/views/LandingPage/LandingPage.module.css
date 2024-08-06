@@ -1,0 +1,45 @@
+.contPrinc {
+  background-image: url("../../images/w0140_1s_Old-Style-Barber-Shop-Wallpaper-for-Walls-Barber-Shop_Repeating-Pattern-Sample-1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #365343;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  background: linear-gradient(to right, #ff5733, #ffc300);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 5em;
+  font-weight: bold;
+}
+
+h2 {
+  color: #323835;
+  text-shadow: 2px 2px 2px rgba(255, 250, 250, 0.5);
+}
+
+.links span {
+  color: #0004ff;
+  font-weight: bold;
+}
+
+.links span:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+.links {
+  background-color: #635f5fa6;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(180, 17, 17, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

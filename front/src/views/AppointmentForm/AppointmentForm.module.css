@@ -1,0 +1,15 @@
+.contPrinc{
+      display: flex;
+      flex-direction: column;
+      max-width: 400px;
+      margin: 100px auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+}
+
+.contPrinc select {
+     
+      margin-bottom: 25px;
+}

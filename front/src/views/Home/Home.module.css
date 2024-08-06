@@ -1,0 +1,7 @@
+.contPrinc {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-image: url(../../images/w0140_1s_Old-Style-Barber-Shop-Wallpaper-for-Walls-Barber-Shop_Repeating-Pattern-Sample-1.jpg);
+      height: 100vh;
+}

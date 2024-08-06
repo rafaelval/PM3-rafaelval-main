@@ -1,0 +1,42 @@
+/* About.module.css */
+
+.contPrinc {
+      max-width: 800px;
+      margin: 100px auto;
+      padding: 20px;
+      background-color: #f8f8f8;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h2 {
+      color: #333;
+      font-size: 2em;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    p {
+      color: #555;
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+    
+    p strong {
+      color: #333;
+    }
+    
+    p em {
+      font-style: italic;
+      color: #666;
+    }
+    
+    p a {
+      color: #007bff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    p a:hover {
+      text-decoration: underline;
+    }
